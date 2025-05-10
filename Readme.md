@@ -22,8 +22,8 @@ Suppose we have obtained user and item embeddings, denoted as `metamodel_user_em
 # Preliminaries:
 # 	metamodel_user_emb: [M, D]
 # 	metamodel_item_emb: [N, D]
-# 	h_user: [B, D]
-# 	h_item: [B, D]
+# 	h_user: [M, D]
+# 	h_item: [N, D]
 # 	user_item_pair: [B, 2], containing user historical interactions in one batch, the first column is user id, the second column is item id.
 # 	train_loss_1: the loss of main model
 # 	mainmodel_optimizer: the optimizer of main model
