@@ -12,7 +12,7 @@ arXiv:2408.05792. 2024
 
 ### The implementation of Cross Fusion Model
 
-The Cross Fusion Module is used to distill knowledge from a pretrained model (which we called the meta model), so as to benefit the learning of current model (which we called the main model) in a "learn to fuse" manner.
+The Cross Fusion Module is used to distill knowledge from a pretrained model (which we called the meta model), so as to benefit the learning of current model (which we called the main model) in a "learn-to-fuse" manner.
 
 The whole training process can refer to Algorithm 1 in our paper, which is split into two cascaded stages: the training of the meta model, and the training of the main model. 
 
