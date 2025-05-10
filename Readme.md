@@ -3,7 +3,7 @@ Due to the amount of requirements of code  with respect to **GraphTransfer**, we
 We hope this code helps you well. If you use this code in your work, please cite our paper.
 
 ```
-
+GraphTransfer: A Generic Feature Fusion Framework for Collaborative Filtering
 Jiafeng Xia, Dongsheng Li, Hansu Gu, Tun Lu and Ning Gu.
 arXiv:2408.05792. 2024
 ```
